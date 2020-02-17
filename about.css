@@ -154,7 +154,7 @@ li a:active {
   height: 350px;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: linear-gradient(rgb(93,94,170),rgb(93,66,103));
+  background: linear-gradient(rgb(225,150,58),rgb(227,144,91));
   animation: animate 1s linear infinite;
   transition:.6s;
   
@@ -180,7 +180,7 @@ li a:active {
   margin-top: 10px;
   margin-bottom: 10px;
   
-  background: linear-gradient(#ff5252, #b33939);
+  background: linear-gradient(rgb(225,150,58),rgb(227,144,91));
   transition:.6s;
   
   transform: rotatex(75deg) translatey(-200px) translatez(-100px);
